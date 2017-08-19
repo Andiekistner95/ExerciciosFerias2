@@ -31,5 +31,9 @@ public class Teste {
 		FornecePara fp1 = new FornecePara(peca1, for1, pj1, 6d);
 		FornecePara fp2 = new FornecePara(peca2, for2, pj2, 4d);
 		
+		System.out.println(forCid1);
+		System.out.println(forCid2);
+		System.out.println(fp1);
+		System.out.println(fp2);//desnecessario
 	}
 }

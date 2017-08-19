@@ -6,7 +6,7 @@ public class TestePais {
 		
 		Pais pais1 = new Pais("Brasil", "Brasília", 300000d);
 		Pais pais2 = new Pais("Argentina", "Buenos Aires", 200000d);
-		Pais pais3 = new Pais("Brasil", "Brasília", 3000005d);
+		
 		
 		pais1.getFronteira().add("Argentina");
 		pais1.getFronteira().add("Chile");

@@ -16,5 +16,7 @@ public class Teste {
 		Canta ct1 = new Canta(bd1, mus1, gv1, 2013, "Rock");
 		Canta ct2 = new Canta(bd2, mus2, gv2, 2000, "Punk");
 		
+		System.out.println(ct1 + " " +ct2);//desnecessario
+		
 	}
 }
